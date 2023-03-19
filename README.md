@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swaradgat19
 <!-- - 👀 I’m interested in  -->
-- 🌱 I’m currently learning Computer Vision and Machine Learning
+- 🌱 I’m currently learning Computer Vision, Machine Learning and Data Visualization 
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development projects 
 - 📫 How to reach me at sgat@cs.stonybrook.edu
 
