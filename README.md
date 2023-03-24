@@ -17,6 +17,8 @@ JSON     0 secs          -------------------------   00.05 %
 Other    0 secs          -------------------------   00.04 %
 ```
 
+![Swarad's github stats](https://github-readme-stats.vercel.app/api?username=swaradgat19)
+
 <!--END_SECTION:waka-->
 
 <!---
