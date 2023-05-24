@@ -7,7 +7,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python     14 mins         ████████████████████████▓   98.04 %
+Docker     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
