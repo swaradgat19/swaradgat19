@@ -2,7 +2,7 @@
 <!-- - 👀 I’m interested in  -->
 - 🎓 Pursuing Master of Science in Computer Science at Stony Brook University
 - :microscope: **Research Assistant** at the **Department of Biomedical Informatics** at Stony Brook University 
-- 🌱 I’m currently learning Computer Vision, Machine Learning, Data Visualization and Operating Systems
+- 💻 I’m currently learning Computer Vision, Machine Learning, Data Visualization and Operating Systems
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development projects 
 - 📫 How to reach me at sgat@cs.stonybrook.edu
 
