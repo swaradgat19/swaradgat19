@@ -4,7 +4,7 @@
 - :microscope: **Research Assistant** at the **Department of Biomedical Informatics** at Stony Brook University 
 - 💻 I’m currently learning Computer Vision, Machine Learning, Data Visualization and Operating Systems
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development projects 
-- 📫 How to reach me at sgat@cs.stonybrook.edu
+- 📫 Reach me out at sgat@cs.stonybrook.edu
 
 <!--START_SECTION:waka-->
 
