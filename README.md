@@ -6,8 +6,6 @@
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development projects 
 - 📫 Reach me out at sgat@cs.stonybrook.edu
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-
 <!--START_SECTION:waka-->
 
 ```txt
