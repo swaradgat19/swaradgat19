@@ -4,9 +4,7 @@
 - :microscope: **Research Assistant** at the **Department of Biomedical Informatics** at Stony Brook University 
 - 💻 I’m currently learning Computer Vision, Machine Learning, Data Visualization and Operating Systems
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development projects 
-- 📫 Reach me out at sgat@cs.stonybrook.edu
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+- 📫 Reach me at sgat@cs.stonybrook.edu
 
 <!--START_SECTION:waka-->
 
@@ -18,6 +16,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <!---
 swaradgat19/swaradgat19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
