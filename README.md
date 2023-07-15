@@ -17,9 +17,9 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
+<p align="center">
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/multi-screen.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+</p>
 <!---
 swaradgat19/swaradgat19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
