@@ -16,9 +16,9 @@ HTML       0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swaradgat19)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <p align="center">
 <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/raw/master/data/multi-screen.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
