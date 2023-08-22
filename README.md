@@ -9,8 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   51 mins         █████████████████████████   99.88 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python   51 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
