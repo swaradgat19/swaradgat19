@@ -18,6 +18,10 @@ HTML               0 secs          ░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/9482ddf7-8892-4d40-a9ae-3ff26a37e391/project/faacc25e-6abc-433c-8d81-ac470a4b0cc6.svg)](https://wakatime.com/badge/user/9482ddf7-8892-4d40-a9ae-3ff26a37e391/project/faacc25e-6abc-433c-8d81-ac470a4b0cc6)
+[![wakatime](https://wakatime.com/badge/user/9482ddf7-8892-4d40-a9ae-3ff26a37e391/project/9ef7b3a3-0f0c-47c5-975f-916133d1917e.svg)](https://wakatime.com/badge/user/9482ddf7-8892-4d40-a9ae-3ff26a37e391/project/9ef7b3a3-0f0c-47c5-975f-916133d1917e)
+[![wakatime](https://wakatime.com/badge/user/9482ddf7-8892-4d40-a9ae-3ff26a37e391/project/9dd11ffd-818d-41e4-ab57-ab13a27dd78f.svg)](https://wakatime.com/badge/user/9482ddf7-8892-4d40-a9ae-3ff26a37e391/project/9dd11ffd-818d-41e4-ab57-ab13a27dd78f)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swaradgat19&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </p>
