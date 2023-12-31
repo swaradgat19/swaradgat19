@@ -9,10 +9,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     51 mins         ██████████████████▓░░░░░░   74.08 %
-Bash       13 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-Markdown   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
