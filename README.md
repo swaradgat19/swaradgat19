@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on Machine Learning and Web Development projects 
 - 📫 Reach me at sgat@cs.stonybrook.edu
 
+
+
+<b>My weekly coding stats!</b>
+
 <!--START_SECTION:waka-->
 
 ```txt
